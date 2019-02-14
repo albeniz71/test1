@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<server name="test_server1">
+	<account>admin</account>
+	<password>password</password>
+</server>
